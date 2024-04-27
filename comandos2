@@ -4,6 +4,6 @@
 cd soymas
 cd academia
 rm lista.txt
+cd academia
 rm pentientes.txt
-cd..
 rmdir academia
